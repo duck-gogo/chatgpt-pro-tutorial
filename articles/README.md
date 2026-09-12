@@ -4,6 +4,7 @@
 
 | 阶段 | 专题 | 可以带走的清单 |
 |---|---|---|
+| 20× 暂停期间 | [Pro 20× 暂停新订阅后，老用户怎么续费？](./pro-20x-pause-and-renewal.md) | 当前资格、到期前操作、续订安排与扣费验收 |
 | 评估使用强度 | [Pro 5× 够不够？一周用量记录与选档方法](./pro-usage-journal.md) | 可自行填写的用量记录表与判断步骤 |
 | 换档或续费前 | [已有 Plus / Pro，换档与续费前要核对什么？](./pro-upgrade-renewal-checklist.md) | 账号、费用、账期和覆盖影响核对表 |
 | 开通后验收 | [Pro 已开通，但模型入口或可用额度不符合预期怎么办？](../troubleshooting/pro-access-and-usage.md) | 订阅、登录、模型入口和用量的排查顺序 |
